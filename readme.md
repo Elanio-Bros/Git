@@ -289,3 +289,5 @@ Recomendo você dá uma pesquisada sobre os seguintes temas 😉:
 * Gitflow
 * Ferramentas Git visuais
 * GitHooks
+
+Créditos [Eladiolink](https://github.com/Eladiolink)
